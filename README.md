@@ -1,0 +1,1 @@
+# retroarch-playlist-thumbnail-script
