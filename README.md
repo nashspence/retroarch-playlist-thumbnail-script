@@ -14,7 +14,7 @@ RetroArch organizes thumbnails in subfolders named after the playlist, minus the
 The script processes each game entry in the given RetroArch playlists and matches them with available thumbnails using both exact and fuzzy matching. It places the selected thumbnails into structured output folders corresponding to each playlist's db_name.
 
 ## Usage
-After downloading or cloning the thumbnail repository from libretro-thumbnails, users run the script, pointing it to their playlist directory and the downloaded thumbnail directory. The script then creates a new directory structure containing only the necessary thumbnails for the games in the playlists.
+After downloading or cloning the thumbnail repository from [libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails), users run the script, pointing it to their playlist directory and the downloaded thumbnail directory. The script then creates a new directory structure containing only the necessary thumbnails for the games in the playlists.
 
 ## Benefits
 This script streamlines the thumbnail organization process, saving space and enhancing the RetroArch gaming experience with relevant and specific visuals. Users can also customize which type of thumbnail to display (boxart, in-game snapshot, or title screen) using the RetroArch GUI​​.
