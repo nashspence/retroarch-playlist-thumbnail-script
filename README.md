@@ -10,7 +10,7 @@ Sometimes downloading thumbnails using RetroArch just doesn't seem to work for w
 ## Thumbnail Structure in RetroArch
 RetroArch organizes thumbnails in subfolders named after the playlist, minus the .lpl extension. For example, a playlist named Atari - 2600.lpl would correspond to a thumbnail folder named thumbnails/Atari - 2600/. Inside, subfolders like Named_Boxarts, Named_Snaps, and Named_Titles contain boxarts, in-game snapshots, and title screens, respectively​​.
 
-##Script Functionality
+## Script Functionality
 The script processes each game entry in the given RetroArch playlists and matches them with available thumbnails using both exact and fuzzy matching. It places the selected thumbnails into structured output folders corresponding to each playlist's db_name.
 
 ## Usage
